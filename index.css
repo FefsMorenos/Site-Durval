@@ -1,0 +1,795 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+#rectangle1{
+    position: absolute;
+    
+    width: 100%;
+    height: 78px;
+    left: 0px;
+    top: 0px;
+
+    background: #050922;   
+}
+
+#logo{
+
+    position: absolute;
+    
+    width: 105px;
+    height: 38px;
+    left: 112px;
+    top: 20px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px; 
+    line-height: 46,88px;
+    
+    color: #ffffff;
+    
+}
+#naoconta{
+    position: absolute;
+    width: 88px;
+    height: 14px;
+    right: 219px;
+    top: 38px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 14px;  
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+}
+
+#line4{
+    position: absolute;
+
+    width: 0px;
+    height: 24px;
+    right: 182px;
+    top: 33px;
+    
+    
+    border: 1px solid #FFFFFF;
+    transform: rotate();
+    
+}
+
+#rectangle4{
+    position: absolute;
+    width: 107px;
+    height: 24px;
+    right: 35px;
+    top: 34px;
+    
+
+    background: #3DA5FD;
+    border-radius: 30px;
+}
+
+#entrar{
+    position: absolute;
+    width: 33px;
+    height: 14px;
+    right: 70px;
+    top: 39px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #FFFFFF;
+}
+
+#rectangle12{
+    position: absolute;
+
+    width: 100%;
+    height: 460px;
+    left: 0px;
+    top: 78px;
+
+    
+   
+    background-image: linear-gradient(0deg, rgba(61, 165, 253, 0.75) -128.8%,
+    rgba(26, 24, 102, 0.75) 117.39%), url(day-trade-dicas-rafael-destaque.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+#trader{
+    position: absolute;
+    width: 539px;
+    height: 225px;
+    left: 112px;
+    top: 186px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #FFFFFF;
+}
+
+#strong{
+    font: 'Roboto';
+    font-weight: 700;
+    font-style: normal;
+    font-size: 36px;
+    line-height: 42,19px;
+}
+
+#bordar-conta{
+    position: absolute;
+    width: 293px;
+    height: 330px;
+    right: 70px;
+    top: 138px;
+    
+
+    background: linear-gradient(180deg, #050922 0%, rgba(5, 9, 34, 0) 100%);
+    border: 1px solid #3DA5FD;
+    box-sizing: border-box;
+}
+
+#bc1{
+    position: absolute;
+    width: 146px;
+    height: 27px;
+    left: 21px;
+    top: 31px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #FFFFFF;
+}
+
+#nome{
+    position: absolute;
+    width: 90px;
+    height: 17px;
+    left: 21px;
+    top: 81px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #FFFFFF;
+}
+
+#email{
+    position: absolute;
+    width: 36px;
+    height: 17px;
+    left: 21px;
+    top: 131px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #FFFFFF;
+}
+
+#senha{
+    position: absolute;
+    width: 36px;
+    height: 17px;
+    left: 21px;
+    top: 180px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #FFFFFF;
+}
+
+#naoconta2{
+    position: absolute;
+    width: 90px;
+    height: 17px;
+    left: 21px;
+    top: 281px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 14px;  
+    text-decoration-line: underline;
+
+    color: #FFFFFF; 
+}
+
+#entrar2{
+    position: absolute;
+    width: 36px;
+    height: 17px;
+    left: 201px;
+    top: 281px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #FFFFFF;
+ 
+}
+
+#rectangle5{
+
+    position: absolute;
+    width: 87px;
+    height: 24px;
+    left: 171px;
+    top: 276px;
+
+    background: #3DA5FD;
+    border-radius: 30px;
+}
+
+#linha1{
+    position: absolute;
+    width: 241px;
+    top: 105px;
+    left: 21px;
+    border: 1px solid #3DA5FD;
+}
+
+#linha2{
+    position: absolute;
+    width: 241px;
+    top: 155px;
+    left: 21px;
+    border: 1px solid #3DA5FD;
+}
+
+#linha3{
+    position: absolute;
+    width: 241px;
+    top: 205px;
+    left: 21px;
+    border: 1px solid #3DA5FD;
+
+}
+
+#nometxt{
+    position: absolute;
+    width: 140px;
+    left: 115px;
+    top: 91px;
+    background: none;
+    border: none;
+    outline: none;
+
+    color: #FFFFFF;
+}
+
+#emailtxt{
+    position: absolute;
+    width: 200px;
+    left: 55px;
+    top: 141px;
+    background: none;
+    border: none;
+    outline: none;
+
+    color: #FFFFFF;
+}
+
+#senhatxt{
+
+    position: absolute;
+    width: 195px;
+    left: 60px;
+    top: 191px;
+    border: none;
+    background: none;
+    outline: none;
+
+    color: #FFFFFF;
+    
+}
+
+#rectangle2{
+    position: absolute;
+    width: 469px;
+    height: 262px;
+    left: 112px;
+    top: 500px;
+
+    background: url(download.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#banner{
+    position: absolute;
+    width: 456px;
+    height: 80px;
+    left: 632px;
+    top: 628px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #28388F;
+}
+#segundo{
+    position: absolute;
+    width: 267px;
+    height: 44px;
+    top: 890px;
+    left: 128px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #28388F;
+}
+
+#terceiro{
+    position: absolute;
+    width: 268px;
+    height: 44px;
+    top: 890px;
+    left: 444px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #28388F;
+}
+
+#quarto{
+    position: absolute;
+    width: 268px;
+    height: 44px;
+    top: 890px;
+    left: 750px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #28388F;
+}
+#meio{
+    position: absolute;
+    width: 100%;
+    height: 450px;
+    left: 0px;
+    top: 1118.35px;
+
+    background: #1A1866;
+}
+
+#fotocandle{
+    position: absolute;
+    width: 375px;
+    height: 262px;
+    left: 112px;
+    top: 86.75px;  
+}
+#blur{
+    position: absolute;
+    width: 375px;
+    height: 262px;
+    left: 96px;
+    top: 99.65px;
+
+    background: #3DA5FD;
+    filter: blur(35px);
+}
+
+#cockpit{
+    position: absolute;
+    width: 455px;
+    height: 82px;
+    left: 600px;
+    top: 99.65px;
+
+    font-family: 'Roboto';
+    font-size: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #ffffff;
+}
+
+#cocktxt{
+    position: absolute;
+    width: 455px;
+    height: 102px;
+    left: 600px;
+    top: 224.65px;
+
+    font-family: 'Roboto';
+    font-size: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #ffffff;
+}
+
+#meio2banner{
+
+    position: absolute;
+    width: 455px;
+    height: 38px;
+    top: 1588.35px;
+    left: 357px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 52px;
+    text-align: center;
+
+    color: #28388F;
+
+}
+
+#meio2c1{
+    position: absolute;
+    width: 292px;
+    height: 107px;
+    left: 111px;
+    top: 1839.35px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #28388F;
+}
+
+#meio2c2{
+    position: absolute;
+    width: 292px;
+    height: 107px;
+    left: 111px;
+    top: 2041.35px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #28388F;
+}
+
+#meio2c3{
+    position: absolute;
+    width: 292px;
+    height: 107px;
+    left: 438px;
+    top: 1839.35px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #28388F;
+}
+
+#meio2c4{
+    position: absolute;
+    width: 292px;
+    height: 107px;
+    left: 439px;
+    top: 2041.35px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #28388F;
+}
+
+#meio2c5{
+    position: absolute;
+    width: 292px;
+    height: 107px;
+    left: 765px;
+    top: 1839.35px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #28388F;
+}
+
+#meio2c6{
+    position: absolute;
+    width: 292px;
+    height: 107px;
+    left: 766px;
+    top: 2041.35px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #28388F;
+}
+
+#meio3{
+    position: absolute;
+    width: 100%;
+    height: 450px;
+    left: 0px;
+    top: 2248px;
+
+    background: #1A1866;
+}
+
+#fotocandle2{
+    position: absolute;
+    width: 375px;
+    height: 262px;
+    left: 668px;
+    top: 86.75px; 
+}    
+
+#cockpit2{
+    position: absolute;
+    width: 455px;
+    height: 82px;
+    left: 111px;
+    top: 99.65px;
+
+    font-family: 'Roboto';
+    font-size: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #ffffff;
+}
+
+#cocktxt2{
+    position: absolute;
+    width: 455px;
+    height: 102px;
+    left: 111px;
+    top: 224.65px;
+
+    font-family: 'Roboto';
+    font-size: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #ffffff;
+}
+
+#blur2{
+    position: absolute;
+    width: 375px;
+    height: 262px;
+    left: 668px;
+    top: 99.65px;
+
+    background: #3DA5FD;
+    filter: blur(35px);
+}
+
+#meio4{
+
+    
+    position: absolute;
+    width: 100%;
+    height: 322px;
+    left: 0px;
+    top: 2698px;
+
+    
+    background-image: linear-gradient(180deg, rgba(26, 24, 102, 0.95) 0%,
+    rgba(5,9,34,0.95)100%),  url('trade.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#meio4banner{
+    position: absolute;
+    width: 531px;
+    height: 36px;
+    left: 319px;
+    top: 5.35px;
+
+    font-family: 'Roboto';
+    font-size: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+#meio4txt{
+    position: absolute;
+    width: 567px;
+    height: 55px;
+    left: 301px;
+    top: 100.35px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+#footer{
+    position: absolute;
+    width: 100%;
+    height: 450px;
+    left: 0px;
+    top: 3019.35px;
+
+    background: #050922;
+
+}
+
+#footertxt1{
+    position: relative;
+    width: 215px;
+    height: auto;
+    left: 100px;
+    top: 0px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 28px;
+    
+    color: #FFFFFF;
+}
+#facebook{
+    margin-left: 0.3%;
+}
+#instagram{
+    margin-left: 5%;
+}
+
+#linkedin{
+    margin-left: 0.3%;
+}
+
+#youtube{
+    margin-left: 0.3%;
+}
+
+#twitter{
+    margin-left: 0.3%;
+}
+#footertxt2{
+    position: absolute;
+    left: 500px;
+    top: 0px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12pt;
+    line-height: 28px;
+    
+
+    color: #FFFFFF;
+}
+
+#rectfooter{
+    position: relative;
+    left: 404px;
+    position: absolute;
+    width: 300px;
+    height: 30px;
+    border-radius: 30px;
+    top: 55px;
+
+    border: 1px solid white;
+}
+
+#centraldeatendimento{
+    position: absolute;
+    left: 480px;
+    top: 60px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12pt;
+    line-height: 28px;
+    text-decoration: none;
+
+    color: white;
+}
+
+#baixe{
+    position: absolute;
+    left: 800px;
+    top: 0px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12pt;
+    line-height: 28px;
+    text-decoration: none;
+
+    color: white;
+}
+
+#play{
+    position: absolute;
+    left: 780px;
+    top: 55px;
+}
+
+#store{
+    position: absolute;
+    left: 910px;
+    top: 55px;
+}
